@@ -1,6 +1,6 @@
 # assignments
 this repository contains my assignments.  
-___
+---
 **Python**
 ---
 * [Assignment 2](https://github.com/freeklinssen/assignments/blob/master/assignment2.ipynb)
