@@ -14,3 +14,8 @@ ___
 
 
 
+
+* [python](https://github.com/freeklinssen/assignments/blob/master/exam_june_7_2018%20freek.ipynb)
+
+
+
