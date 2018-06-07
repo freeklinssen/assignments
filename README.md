@@ -16,7 +16,7 @@ ___
 
 
 * [python](https://github.com/freeklinssen/assignments/blob/master/exam_june_7_2018%20freek.ipynb)
-* [R](https://github.com/freeklinssen/assignments/blob/master/Exam_student%20freek.ipynb)
+* [R](https://github.com/freeklinssen/assignments/blob/master/Exam_student%20freek%20linssen.ipynb)
 
 
 
