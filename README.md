@@ -12,7 +12,9 @@ ___
 * [assignment 6](https://github.com/freeklinssen/assignments/blob/master/Graded_assignment1.ipynb)
 * [assignment 7](https://github.com/freeklinssen/assignments/blob/master/Graded_assignment_2.ipynb)
 
-
+---
+___
+---
 
 
 * [python](https://github.com/freeklinssen/assignments/blob/master/exam_june_7_2018%20freek.ipynb)
