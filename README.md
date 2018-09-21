@@ -25,7 +25,7 @@ ___
 ---
 ---
 ---
-*examen 21 sept
-* [R](https://github.com/freeklinssen/assignments/blob/master/Exam_student%20freek%20linssen.ipynb)
+*examen 21 sept*
+* [R](https://github.com/freeklinssen/assignments/blob/master/exam_2_student-2.ipynb)
 
 
