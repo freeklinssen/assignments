@@ -28,4 +28,4 @@ ___
 *examen 21 sept*
 * [R](https://github.com/freeklinssen/assignments/blob/master/exam_2_student-2.ipynb)
 
-
+* [python](https://github.com/freeklinssen/assignments/blob/master/exam_Sep_21_2018-3.ipynb)
